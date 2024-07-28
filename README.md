@@ -1,3 +1,17 @@
+Preview Link: https://atlys-frontend.netlify.app/
+
+Screenshots: 
+<img width="1792" alt="Screenshot 2024-07-28 at 1 47 14 PM" src="https://github.com/user-attachments/assets/abc5b635-caf6-432c-8219-fc3a6a5a0a99">
+<img width="1792" alt="Screenshot 2024-07-28 at 1 47 27 PM" src="https://github.com/user-attachments/assets/1c0b3edc-8da5-4525-9d4a-990ac301508f">
+<img width="1785" alt="Screenshot 2024-07-28 at 1 47 53 PM" src="https://github.com/user-attachments/assets/acd7214a-d8e2-437d-81ac-ccc6c3d77aec">
+
+# Technologies Used
+Styling - Tailwind CSS
+Typescript
+Framework - React.js
+For Icons - react-icons
+For Routing - react-router
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
